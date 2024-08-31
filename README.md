@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![https://github.com/Ferran226](![minimalist content writer profile banner(1)](https://github.com/user-attachments/assets/8baf1878-184d-4bd3-bb4c-e89c45130f1f)
+)
+
