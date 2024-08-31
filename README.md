@@ -1,6 +1,6 @@
-### Hola soy Alvaro Salvador 👋
+# Hola mi nombre es Alvaro Salvador 👋
 
-## Soy estudiante en el master de full stack de Conquer Blocks
+### Soy estudiante en el master de desarollo full stack de la academia Conquer Blocks.
 
 <!--
 **alvaroszdev/alvaroszdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
